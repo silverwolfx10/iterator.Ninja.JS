@@ -1,0 +1,25 @@
+{
+  "name": "iterator.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Facilita a interacao com um array, permitindo o avancar e retroceder uma colecao de dados",
+  "main": "iterator.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bibizzy/iterator.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ninja.JS": "*",
+    "slice.Ninja.JS": "*"
+  }
+}

@@ -15,7 +15,7 @@
  *        }
  *
  */
-Ninja.module('$iterator', ['$slice'], function ($slice) {
+this.Ninja.module('$iterator', ['$slice'], function ($slice) {
   
   /**
    * Facilita a interacao com um array
